@@ -1,0 +1,4 @@
+1 . Clone the decentralized wallet project : https://github.com/kshitijofficial/templateDapp
+2 . in Terminal - cd client
+3 . in Terminal - npm install
+4 . in client folder do npm start
